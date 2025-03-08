@@ -1,0 +1,14 @@
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\geoloctest.exe
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\geoloctest.deps.json
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\geoloctest.runtimeconfig.json
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\geoloctest.dll
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\geoloctest.pdb
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\geoloctest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\geoloctest.AssemblyInfoInputs.cache
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\geoloctest.AssemblyInfo.cs
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\geoloctest.csproj.CoreCompileInputs.cache
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\geoloctest.dll
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\refint\geoloctest.dll
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\geoloctest.pdb
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\geoloctest.genruntimeconfig.cache
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\Release\net8.0\ref\geoloctest.dll

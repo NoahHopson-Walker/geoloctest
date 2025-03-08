@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "geoloctest", "geoloctest.csproj", "{9DE5258E-F32A-4E7B-8443-CAE3D6CA6646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUtility", "..\TestUtility\TestUtility.csproj", "{524DF7C8-29F9-42C4-B30F-96A36C5B6092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE5258E-F32A-4E7B-8443-CAE3D6CA6646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE5258E-F32A-4E7B-8443-CAE3D6CA6646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE5258E-F32A-4E7B-8443-CAE3D6CA6646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE5258E-F32A-4E7B-8443-CAE3D6CA6646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524DF7C8-29F9-42C4-B30F-96A36C5B6092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524DF7C8-29F9-42C4-B30F-96A36C5B6092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524DF7C8-29F9-42C4-B30F-96A36C5B6092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524DF7C8-29F9-42C4-B30F-96A36C5B6092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECEA46EF-4367-426D-86F7-D18D5F790748}
+	EndGlobalSection
+EndGlobal

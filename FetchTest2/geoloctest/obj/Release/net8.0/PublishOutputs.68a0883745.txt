@@ -1,0 +1,5 @@
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.exe
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.dll
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.deps.json
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.runtimeconfig.json
+C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.pdb

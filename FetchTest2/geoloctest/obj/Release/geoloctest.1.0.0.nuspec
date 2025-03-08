@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>geoloctest</id>
+    <version>1.0.0</version>
+    <authors>geoloctest</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="C:\Users\noahh\source\repos\FetchTest2\geoloctest\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.dll" target="tools\net8.0\any\geoloctest.dll" />
+    <file src="C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.deps.json" target="tools\net8.0\any\geoloctest.deps.json" />
+    <file src="C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.runtimeconfig.json" target="tools\net8.0\any\geoloctest.runtimeconfig.json" />
+    <file src="C:\Users\noahh\source\repos\FetchTest2\geoloctest\bin\Release\net8.0\publish\geoloctest.pdb" target="tools\net8.0\any\geoloctest.pdb" />
+  </files>
+</package>
